@@ -1,0 +1,7 @@
+changeBg:map-1.jpg -next -unlockname=校门口;
+bgm:Spring.mp3 -unlockname=Spring;
+unlockBgm:Spring.mp3 -name=Spring;
+changeFigure: -left -next;
+miniAvatar:stand.png;
+欢迎来到咱们学校，这里是校门口，请问同学想去哪里？ -fontSize=default;
+choose:图书馆:story.txt|教学楼:story.txt|学院楼:story.txt|宿舍:story.txt|食堂:story.txt|超市:story.txt|快递站:story.txt|不想去了:menu.txt;
